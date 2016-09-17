@@ -1,6 +1,6 @@
 # num
 ### A patch for numpad bug
-## this simple script fixed the bug that turnoff numlock on layout changing , it tested on ubuntu 15.04,15.10,16.04
+#### this simple script fixed the bug that turnoff numlock on layout changing , it tested on ubuntu 15.04,15.10,16.04
 [ NumLock turned off on layout switch on launchpad 1247668](https://bugs.launchpad.net/xorg-server/+bug/1247668)
 
 # Installation
